@@ -1,0 +1,1 @@
+is a distributed version control system, as a contrast to for example subversion that is centralized. What this means is that with subversion, the code repository (repo) lives on a server and people need special permissions (commit rights) to be able to add code to the repo. Everything lives in one place.
